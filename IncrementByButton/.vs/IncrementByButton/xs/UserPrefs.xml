@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{95779B6E-8DB5-47BF-9391-31FA1E871912}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_API_27" />
+  <MonoDevelop.Ide.ItemProperties.IncrementByButton.Android PreferredExecutionTarget="Android.Pixel_2_API_27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IncrementByButton/IncrementByButton/MainPage.xaml">
+    <Files>
+      <File FileName="IncrementByButton/IncrementByButton/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="IncrementByButton/IncrementByButton/MainPage.xaml" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IncrementByButton" expanded="True">
+            <Node name="IncrementByButton" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IncrementByButton.iOS FirstBuild="True" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/bin/Debug/netstandard2.0/IncrementByButton.deps.json
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/bin/Debug/netstandard2.0/IncrementByButton.dll
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/bin/Debug/netstandard2.0/ref/IncrementByButton.dll
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/bin/Debug/netstandard2.0/IncrementByButton.pdb
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.csproj.AssemblyReference.cache
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.AssemblyInfoInputs.cache
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.AssemblyInfo.cs
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.csproj.CoreCompileInputs.cache
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.dll
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/ref/IncrementByButton.dll
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.pdb
+/Users/muhammedikbalaktas/Desktop/XamarinProjects/IncrementByButton/IncrementByButton/IncrementByButton/obj/Debug/netstandard2.0/IncrementByButton.GeneratedMSBuildEditorConfig.editorconfig

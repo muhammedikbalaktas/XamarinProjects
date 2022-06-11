@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IncrementByButton.MainPage">
+    
+        <StackLayout>
+        <Label Text="Click button for increment" HorizontalOptions="Center" FontSize="20"
+               Margin="20"/>
+        <Label x:Name="text_for_increment" x:DataType="x:Int32"
+               Text="0" HorizontalOptions="Center" FontSize="100"
+               Margin="60"
+
+               />
+        <Button x:Name="btn_increment"
+                Text="+" HorizontalOptions="Center" FontSize="40"
+                Clicked="my_click"/>
+
+
+
+
+    </StackLayout>
+    
+
+</ContentPage>
+
